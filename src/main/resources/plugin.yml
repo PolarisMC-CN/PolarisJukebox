@@ -1,0 +1,8 @@
+name: PolarisJukebox
+version: $version
+main: cn.mcpolaris.plugin.polarisJukebox.paper.PolarisJukebox
+api-version: '1.20'
+authors: [ XPYEX ]
+commands:
+  jukebox:
+

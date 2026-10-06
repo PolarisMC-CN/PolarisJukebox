@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="9b553ba3-ce80-4745-8c53-a0efc502fed3" />
+              <option name="cwd" value="$PROJECT_DIR$" />
+              <option name="model" value="claude-opus-4-8[1m]" />
+              <option name="permissionMode" value="acceptEdits" />
+            </TabSessionState>
+          </value>
+        </entry>
+        <entry key="1">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="aa82e7f1-03c9-4b24-959c-0941cc9fdad1" />
+              <option name="cwd" value="$PROJECT_DIR$" />
+              <option name="model" value="claude-opus-4-8[1m]" />
+              <option name="permissionMode" value="bypassPermissions" />
+            </TabSessionState>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="e1405f40-9c55-4911-832f-e5537aba2ae2" />
+              <option name="cwd" value="$PROJECT_DIR$" />
+              <option name="model" value="claude-opus-4-8[1m]" />
+              <option name="permissionMode" value="bypassPermissions" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tabCount" value="3" />
+  </component>
+</project>
